@@ -9721,3 +9721,15 @@ h2.big-text-z.mid-text-s.hz2 a {
 }
 
 
+.form-row .body-32 {
+    font-size: 23px !important;
+    line-height: 1em;
+}
+
+.form-row {
+    margin-bottom: 20px !IMPORTANT;
+}
+
+.body-3 .featured-wrap.container-1440 {
+    height: 100vh !important;
+}
